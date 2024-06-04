@@ -12,6 +12,7 @@ Separation of concerns: Each class has a well-defined responsibility, reducing d
 Reuse of functions: Functions like SaveProductsToFile and LoadProductsFromFile are reused for different product saving and loading scenarios. (Warehouse.cs, Program.cs)
 
 *Example:*
+
 Consistent naming: The [Product class](https://github.com/Maxim-Dorozhynskiy-ipz221/Design-Patterns/blob/main/Lab1/Product.cs) consistently uses id, name, and unitPrice for its properties.
 
 ### *2. Keep It Simple, Stupid (KISS)*
