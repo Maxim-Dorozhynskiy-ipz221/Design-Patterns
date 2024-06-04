@@ -1,0 +1,17 @@
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\palitex\КПЗ\Lab1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\palitex\КПЗ\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
